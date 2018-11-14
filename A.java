@@ -1,5 +1,7 @@
 class A{
 void welcome(){
 }
-  void add(){}
+  void add(){
+  int r= x+y;
+  }
 }

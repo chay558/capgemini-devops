@@ -1,3 +1,5 @@
 class A{
-void welcome()
+void welcome(){
+}
+  void add(){}
 }

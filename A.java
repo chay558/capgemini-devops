@@ -8,4 +8,5 @@ void welcome(){
 
   void sub(){}
 
+  void div(){}
 }
